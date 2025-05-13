@@ -492,7 +492,7 @@
   {
     "speciesId": "goodra",
     "fastMove": "DRAGON_BREATH",
-    "chargedMoves": ["AQUA_TAIL","POWER_WHIP"],
+    "chargedMoves": ["AQUA_TAIL","THUNDER_PUNCH"],
     "weight": 1
   },
   {
